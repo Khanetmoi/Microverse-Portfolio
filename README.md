@@ -11,7 +11,7 @@
     visual studio code
     
 # Link to the result of the website
-  https://khanetmoi.github.io/Portfolio-setup-and-mobile-version-skeleton/
+  https://github.com/Khanetmoi/Microverse-Portfolio/edit/Portfolio-setup-and-mobile-version-skeleton/README.md
 
 # 👤 Author1
 
